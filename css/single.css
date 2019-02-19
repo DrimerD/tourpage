@@ -1,0 +1,637 @@
+/*partner-block*/
+section#single-img .partner-block {
+    display: flex;
+    justify-content: space-between;
+    padding: 42px 1rem;
+}
+
+section#single-img img {
+    width: 100%;
+}
+
+section#single-img .partner-block .logo {
+    width: 70%;
+}
+
+section#single-img .partner-block .partners {
+    width: 48%;
+}
+
+section#single-img .partner-block .logo img {
+    max-width: 222px;
+    max-height: 68px;
+}
+
+section#single-img .partner-block p.title {
+    font-family: 'MuseoSansCyrl-300';
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #a2a2a2;
+    margin-bottom: 10px;
+}
+section#single-img .container.img-cont {
+    height: 100%;
+}
+section#single-img .partner-block .partners > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section#single-img .partner-block .partners img {
+    max-width: 130px;
+}
+
+section#single-img {
+    width: 100%;
+    height: 100vh;
+    padding-top: 55px;
+}
+
+section#single-img .slide-container {
+    background-image: url(../img/main-img@2x.jpg);
+    background-size: cover;
+    background-position: 75%;
+    width: 100%;
+    height: calc(100% - 152px);
+    position: relative;
+}
+
+section#single-img .slide-container .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section#single-img .slide-container .text-container {
+    width: 100%;
+    max-width: 569px;
+    height: 120px;
+    text-align: center;
+    background-color: #ffff00;
+    padding: 15px 10px 15px 90px;
+    position: absolute;
+    bottom: 120px;
+    left: -20px;
+}
+
+section#single-img .slide-container .text-container p.title {
+    font-size: 48px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 1.2px;
+    text-align: left;
+    color: #4d4d4d;
+    font-family: 'MuseoCyrl-500';
+    margin-bottom: 0;
+}
+
+section#single-img .slide-container .text-container p.description {
+    font-family: 'MuseoCyrl-500';
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #555555;
+}
+/*local*/
+#local {
+    padding: 90px 0;
+}
+#local img {
+    width: 100%;
+}
+#local p.description {
+    font-family: 'MuseoCyrl-300';
+    font-size: 17px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.65;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #555555;
+}
+/*tours*/
+section#tours {
+    padding: 30px 0;
+}
+section#tours h2 {
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.9px;
+    text-align: left;
+    color: #555555;
+    margin-bottom: 15px;
+}
+section#tours .header-filter {
+    height: 81px;
+    background-color: #ffff00;
+    background-image: url(../img/tours/bg-filter@2x.png);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+section#tours .single-title-nav {
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.9px;
+    text-align: center;
+    color: #555555;
+    text-transform: uppercase;
+}
+section#tours .filter {
+    position: relative;
+}
+section#tours .filter .menu-filter {
+    background-color: #fff;
+    padding: 10px 20px;
+    position: absolute;
+    left: 17px;
+    top: 19px;
+}
+section#tours .filter .menu-filter img {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+    position: relative;
+    z-index: 2;
+}
+section#tours .filter .menu-filter img:hover {
+    cursor: pointer;
+}
+section#tours .filter .menu-filter img:last-child {
+    margin-right: 0;
+}
+section#tours .slider-for .single-weath {
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 18px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #555555;
+    border: 2px solid transparent;
+    padding: 5px;
+    position: relative;
+}
+section#tours .slider-for .single-weath.active {
+    border: 2px solid #ffff00;
+    border-radius: 8px;
+}
+section#tours .slider-for .single-weath:hover {
+    cursor: pointer;
+}
+section#tours .slider-for .single-weath i {
+    color: #ffff00;
+    position: absolute;
+    top: 38%;
+    right: 5px;
+}
+section#tours .slider-for .single-weath:not(.active) i {
+    display: none;
+}
+section#tours .slider-for .single-weath img {
+    width: 77px;
+    height: 70px;
+    margin-right: 10px;
+}
+section#tours .slider-for .img-container {
+    position: relative;
+    overflow: hidden;
+    height: 225px;
+}
+section#tours .slider-for .img-container img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+section#tours .slider-for .img-container .title-img {
+    position: absolute;
+    right: 0;
+    top: 120px;
+}
+section#tours .slider-for .img-container .title-img a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0 8px 0 5px;
+}
+section#tours .slider-for .img-container .title-img img {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+section#tours .slider-for .img-container .title-img date {
+    font-family: 'MuseoSansCyrl-300';
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #ffff00;
+    margin-top: 5px;
+    display: block;
+}
+section#tours .slider-for-row {
+    margin-top: 40px;
+}
+section#tours .img-with-text {
+    height: 48px;
+    width: 170px;
+    background-color: #ffff00;
+    font-family: 'MuseoSansCyrl-300';
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #4d4d4d;
+}
+section#tours .img-with-text:hover {
+    text-decoration: none;
+}
+section#tours .grid-tour {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 30px;
+}
+section#tours .slider-for-row .title-tour {
+    margin: 15px  0;
+}
+section#tours .slider-for-row .title-tour a {
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #555555;
+}
+section#tours .slider-for-row .title-tour a:hover {
+    text-decoration: none;
+}
+section#tours .single-tour .price-img {
+    position: absolute;
+    top: 120px;
+    left: -180px;
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #ffff00;
+    background-color: rgba(255,255,255,0.38);
+    height: 48px;
+    width: 160px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    opacity: 0;
+}
+section#tours .single-tour:hover .price-img {
+    opacity: 1;
+    left: 0;
+}
+section#tours .single-tour:hover img {
+    transform: scale(1.1);
+}
+section#tours .single-tour p.sale {
+    font-family: 'MuseoSansCyrl-300';
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #e3ffa8;
+}
+section#tours .single-tour.get-more {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 55px;
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.67;
+    letter-spacing: 0.9px;
+    text-align: left;
+    color: #ffdd00;
+    height: 225px;
+    border-radius: 8px;
+    border: 3px solid;
+    text-transform: uppercase;
+}
+section#tours .single-tour.get-more:hover {
+    text-decoration: none;
+    color: #4d4d4d;
+}
+section#tours .single-tour.get-more i {
+    font-size: 30px;
+}
+section#tours .slider-nav {
+    width: 200px;
+    margin: auto;
+}
+section#tours .slider-nav .slick-next:before, section#tours .slider-nav .slick-prev:before {
+    color: #555555;
+    font-family: "Font Awesome 5 Free";
+    font-size: 22px;
+}
+section#tours .slider-nav .slick-next,
+section#tours .slider-nav .slick-prev {
+    top: 45%;
+}
+/*soc*/
+section#soc {
+    margin: 30px 0;
+}
+section#soc .soc-block {
+    height: 100px;
+    background-color: #555555;
+    display: flex;
+    color: #fff;
+    padding: 22px;
+    justify-content: space-between;
+    align-items: baseline;
+}
+section#soc .soc-block p.title {
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.9px;
+    text-align: left;
+}
+section#soc .soc-block a {
+    border: 1px solid #fff;
+    border-radius: 2px;
+    display: inline-block;
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #ffffff;
+    transition: all .2s linear;
+    height: 57px;
+    width: 100%;
+    max-width: 170px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 15px;
+}
+section#soc .soc-block a:hover {
+    text-decoration: none;
+    color: #ffff00;
+}
+section#soc .soc-block .link {
+    display: flex;
+    width: 371px;
+    justify-content: space-around;
+}
+/*response*/
+section#response {
+    padding: 30px 0;
+}
+section#response .single-response {
+    border: 3px solid #ffff00;
+    border-radius: 8px;
+    background-color: #ffffff;
+    padding: 80px;
+    display: grid!important;
+    grid-template-columns: minmax(162px,20%) 75%;
+    grid-column-gap: 70px;
+}
+section#response h3 {
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 36px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.9px;
+    text-align: left;
+    color: #555555;
+    margin-bottom: 40px;
+}
+section#response .single-response p.title {
+    font-family: 'MuseoSansCyrl-500';
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.6px;
+    text-align: left;
+    color: #555555;
+    margin-bottom: 15px;
+}
+section#response .single-response p.title-desc {
+    font-family: 'MuseoSansCyrl-300';
+    font-size: 12px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: 0.3px;
+    text-align: left;
+    color: #cccccc;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+    border-bottom: 1px solid #ffff00;
+}
+section#response .single-response p.description {
+    font-family: 'MuseoSansCyrl-300';
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.71;
+    letter-spacing: 0.4px;
+    text-align: left;
+    color: #555555;
+}
+section#response .img-container {
+    height: 167px;
+    width: 167px;
+    overflow: hidden;
+    border: 3px solid #ffff00;
+    border-radius: 50%;
+}
+section#response .img-container img {
+    width: 100%;
+    object-fit: cover;
+}
+section#response .slick-next:before, section#response .slick-prev:before {
+    color: #555555;
+    font-family: "Font Awesome 5 Free";
+    font-size: 22px;
+}
+section#response .slick-next {
+   right: -50px;
+}
+section#response .slick-prev {
+    left: -50px;
+}
+
+/*media*/
+@media (max-width: 1199px) {
+    section#tours .slider-for-row .title-tour a{
+        font-size: 21px;
+    }
+    section#soc .soc-block p.title {
+        font-size: 29px;
+    }
+}
+@media (max-width: 991px) {
+    section#single-img {
+        padding-top: 0;
+    }
+    section#single-img .partner-block {
+        padding: 20px 1rem;
+    }
+    section#single-img .partner-block .partners {
+        width: 90%;
+    }
+    section#soc .soc-block p.title {
+        font-size: 22px;
+    }
+    section#soc .soc-block a {
+        font-size: 16px;
+    }
+    section#soc .soc-block {
+        padding: 20px 10px;
+    }
+    section#soc .soc-block .link {
+        width: 260px;
+    }
+    section#soc .soc-block a:first-child {
+        margin-left: 0;
+    }
+    section#response .single-response {
+        padding: 30px;
+    }
+    section#response .img-container {
+        width: 160px;
+        height: 160px;
+    }
+}
+@media (max-width: 767px) {
+    section#single-img .partner-block .logo {
+        width: 33%;
+    }
+    section#single-img .partner-block .partners {
+        width: 60%;
+    }
+    section#single-img .partner-block .partners img {
+        max-width: 90px;
+        margin-right: 10px;
+    }
+    section#single-img .slide-container {
+        height: calc(100% - 105px);
+    }
+    section#soc {
+        margin: 15px 0;
+    }
+    section#soc .soc-block {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    section#response .single-response {
+        grid-template-columns: 100%;
+    }
+    section#response .img-container {
+        margin: 10px auto;
+    }
+    section#response .single-response p.title,
+    section#response .single-response p.title-desc,
+    section#response .single-response p.description {
+        text-align: center;
+    }
+}
+@media (max-width: 575px) {
+    section#single-img .partner-block .partners {
+        display: none;
+    }
+    section#tours .grid-tour {
+        grid-template-columns: repeat(1,1fr);
+        grid-gap: 15px;
+    }
+    section#tours .single-tour.get-more i {
+        margin-left: 15px;
+    }
+    section#response .single-response {
+        padding: 20px;
+    }
+    section#soc .soc-block p.title {
+        font-size: 21px;
+    }
+    section#tours .header-filter {
+        justify-content: flex-end;
+        height: 135px;
+    }
+    section#tours .slider-nav {
+        margin: 10px auto;
+    }
+}
+@media (max-width: 405px) {
+    section#soc .soc-block p.title {
+        text-align: center;
+    }
+    section#response .single-response {
+        padding: 10px;
+    }
+    section#tours h2,
+    section#response h3,
+    section#about-us h3 {
+        font-size: 28px;
+    }
+}
