@@ -1,7 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a3b7b29-ddb2-43ff-831d-ac8a958cac29" name="Default Changelist" comment="" />
+    <list default="true" id="6a3b7b29-ddb2-43ff-831d-ac8a958cac29" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/single.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/single.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header/partner2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/header/partner2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/imgdes1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/imgdes1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/imgdes1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/imgdes1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/imgdes1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/imgdes1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-img@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-img@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/main-img@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/main-img@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/3@2x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/3@2x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/3@3x.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/3@3x.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/5@2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/5@3x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/6@2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/6@3x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/az-filt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/az-filt@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/az-filt@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/bg-filter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/bg-filter@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/bg-filter@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/dec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/dec@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/dec@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/feb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/feb@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/feb@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/group-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/group-22@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/group-22@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico-cal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico-cal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico-cal@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/1@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/1@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/1@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/1@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/2@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/2@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/2@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/2@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/3@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/3@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/3@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/tours/ico/3@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/4@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/4@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/ico/5@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/jan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/jan@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/jan@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/xms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/xms@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/xms@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/za-filt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/za-filt@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/tours/za-filt@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,20 +76,28 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="357">
-                  <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+                <state relative-caret-position="407">
+                  <caret line="282" column="40" selection-start-line="282" selection-start-column="40" selection-end-line="282" selection-end-column="40" />
                   <folding>
                     <element signature="n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#0;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
@@ -36,7 +106,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/single.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="15">
+                <state relative-caret-position="1620">
                   <caret line="108" selection-start-line="108" selection-end-line="108" />
                 </state>
               </provider>
@@ -45,12 +115,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/single.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="494">
-                  <caret line="115" column="29" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="29" />
+                <state relative-caret-position="313">
+                  <caret line="817" column="27" selection-start-line="817" selection-start-column="27" selection-end-line="817" selection-end-column="27" />
                 </state>
               </provider>
             </entry>
@@ -65,8 +135,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/single.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/single.css" />
       </list>
     </option>
   </component>
@@ -142,23 +212,20 @@
       <option name="presentableId" value="Default" />
       <updated>1550615548087</updated>
       <workItem from="1550615549742" duration="1494000" />
+      <workItem from="1550687439859" duration="6389000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1494000" />
+    <option name="totallyTimeSpent" value="7883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.16420014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -166,6 +233,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -175,26 +246,34 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/single.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="112" column="36" selection-start-line="112" selection-start-column="36" selection-end-line="112" selection-end-column="36" />
+        <state relative-caret-position="407">
+          <caret line="282" column="40" selection-start-line="282" selection-start-column="40" selection-end-line="282" selection-end-column="40" />
           <folding>
             <element signature="n#header#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#section#5;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/single.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="817" column="27" selection-start-line="817" selection-start-column="27" selection-end-line="817" selection-end-column="27" />
         </state>
       </provider>
     </entry>
